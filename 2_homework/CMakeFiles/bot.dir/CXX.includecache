@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/2_homework/C/main.cpp
+iostream
+-
+main.h
+/home/stepan/2_homework/C/main.h
+
+/home/stepan/2_homework/C/main.h
+B/lib.h
+/home/stepan/2_homework/C/B/lib.h
+A/index.h
+/home/stepan/2_homework/C/A/index.h
+
+A/index.h
+set
+-
+
+B/lib.h
+vector
+-
+

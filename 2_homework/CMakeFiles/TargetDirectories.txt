@@ -1,0 +1,6 @@
+/home/stepan/2_homework/CMakeFiles/rebuild_cache.dir
+/home/stepan/2_homework/CMakeFiles/bot.dir
+/home/stepan/2_homework/CMakeFiles/edit_cache.dir
+/home/stepan/2_homework/B/CMakeFiles/rebuild_cache.dir
+/home/stepan/2_homework/B/CMakeFiles/lib.dir
+/home/stepan/2_homework/B/CMakeFiles/edit_cache.dir

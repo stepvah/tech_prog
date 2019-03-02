@@ -1,0 +1,3 @@
+/home/stepan/C/gg/CMakeFiles/rebuild_cache.dir
+/home/stepan/C/gg/CMakeFiles/bot.dir
+/home/stepan/C/gg/CMakeFiles/edit_cache.dir
